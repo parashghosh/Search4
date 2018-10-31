@@ -29,11 +29,9 @@ echo -e $RED ■■■■■■■■■■■■■■■■■■■
  
 echo -e $YELLOW Dev on telegram : 
 echo -e $BLUE https://t.me/trilli0n4ir3
-echo 
-
+echo
 
 sleep 2 
 cd $HOME/Search4
 chmod +x search4.py
-
-
+echo use python search4.py to run the script.
