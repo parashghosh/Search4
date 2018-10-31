@@ -22,3 +22,6 @@ chmod +x setup.sh
 bash setup.sh
 
 And ur done...!
+
+
+Use python search4.py to run the script .
